@@ -1,3 +1,3 @@
-FROM almlinux:9
+FROM almalinux:9
 LABEL COURSE="Devops" \
       TRAINER="Laxmareddy" \
